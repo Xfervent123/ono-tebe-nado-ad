@@ -259,7 +259,7 @@ header {
   margin-right: 5px;
 }
 
-.footer {
+footer {
   display: grid;
   justify-content: space-between;
   padding: 0 50px;
